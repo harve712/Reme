@@ -1,0 +1,10 @@
+{
+  "description": "Dashboard en español que explica ETL, regresión lineal y árboles de decisión con conceptos clave, gráficas y KPIs para facilitar el aprendizaje de ciencia de datos.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
